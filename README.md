@@ -1,4 +1,4 @@
-# REVORA — rebuilt 3D configurator
+# REVORA — Redefine your Drive 3D configurator
 
 This package preserves the REVORA dark/gold theme and existing configurator structure.
 
